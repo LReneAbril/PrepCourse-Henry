@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio de PrepCourse
+este proyecto es una prueba
